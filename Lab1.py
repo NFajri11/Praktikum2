@@ -7,6 +7,9 @@ print('X', end='')
 print('Y', end='')
 print('Z', end='')
 
+
+
+
 # penggunaan separator
 w, x, y, z = 10, 15, 20, 25
 print(w, x, y, z)
@@ -14,6 +17,9 @@ print(w, x, y, z, sep=',')
 print(w, x, y, z, sep='')
 print(w, x, y, z, sep= ':')
 print(w, x, y, z, sep='-----')
+
+
+
 
 # string format
 print(0, 10**0)
