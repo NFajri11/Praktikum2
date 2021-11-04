@@ -11,9 +11,9 @@
 
 ##  Penjelasan program
 ![Gambar2](screenshot3/ssc.png)
-Perintah math.pi jika kita coba cetak fungsi tersebut maka akan menghasilkan nilai 3.14.
-Sintak /t merupakan karakter espace yang berfungsi untuk membuat tabdalan kasus ini agar sejajar karakter dengan (=) nya.
-Dengan menggunakan fungsi format(luas,'.2f')akan menghasilkan 2 angka pecahan dibelakang koma.
+Perintah math.pi jika kita coba cetak fungsi tersebut maka akan menghasilkan nilai 3.14. '<p>'
+Sintak /t merupakan karakter espace yang berfungsi untuk membuat tabdalan kasus ini agar sejajar karakter dengan (=) nya. '<P>'
+Dengan menggunakan fungsi format(luas,'.2f')akan menghasilkan 2 angka pecahan dibelakang koma. '<p>'
 
 ## Hasil eksekusi program luas dan keliling lingkaran
 ![Gambar3](screenshot3/ssc1.png)
